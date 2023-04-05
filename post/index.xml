@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sathsara Rasantha</title>
+    <link>https://sathsararasantha.github.io/sathsara_portfolio/post/</link>
+    <description>Recent content in Projects on Sathsara Rasantha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://sathsararasantha.github.io/sathsara_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face recognition system</title>
+      <link>https://sathsararasantha.github.io/sathsara_portfolio/post/project-1/</link>
+      <pubDate>Tue, 20 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://sathsararasantha.github.io/sathsara_portfolio/post/project-1/</guid>
+      <description>This is face recognition API created with the intention of integrating it into a restaurent management app. This face recognition API is planned to use as a verification method for app users. </description>
+    </item>
+    
+    <item>
+      <title>Job Recommendation System</title>
+      <link>https://sathsararasantha.github.io/sathsara_portfolio/post/project-2/</link>
+      <pubDate>Tue, 20 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://sathsararasantha.github.io/sathsara_portfolio/post/project-2/</guid>
+      <description>Algorithms used Tf-idf vectorizer : The term tf–idf stands for term frequency–inverse document frequency. It is a mathematical statistic that is planned to reflect how significant a word is to a record in a collection or corpus. The tf–idf esteem builds proportionally to the number of times a word shows up in the document. It is offset by the quantity of documents in the corpus that contain the word, which helps to adjust for the fact that a few words show up more often when all is said and done.</description>
+    </item>
+    
+  </channel>
+</rss>
